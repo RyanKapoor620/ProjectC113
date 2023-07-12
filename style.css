@@ -1,0 +1,11 @@
+h3
+  {
+    font-size: 25px;
+  }
+  canvas {
+  	border:1px solid white;
+    
+  }
+body{
+    background-color:rgb(208, 51, 87) ;
+}
